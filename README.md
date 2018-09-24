@@ -1,5 +1,7 @@
 ## Distributed deep learning with Keras on Spark
+<p align="center">
 ![Spark with Keras](https://i.imgur.com/JarVo2A.png?raw=true "Spark with Keras")
+</p>
 
 #### There are many distributed deep learning frameworks, but only this one worked for me so far
 and only with some fixing
